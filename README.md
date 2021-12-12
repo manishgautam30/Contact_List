@@ -23,7 +23,7 @@ Would you like to add another contact number? (y/n): y
 Contact Number: 2365987415
 Would you like to add another contact number? (y/n): n
 Would you like to add email address? (y/n): y
-Email Address: divyansh.bhardwaj@gla.ac.in
+Email Address: manishgautam.30august@gmail.com
 Information about the 'add a contact menu'
 
 
