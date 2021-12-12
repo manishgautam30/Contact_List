@@ -1,11 +1,11 @@
 # Contact_List
 
 
-Create a menu-driven program to emulate a Contact Lists Application. You might see such apps in smartphones, you are free to go ahead and take ideas from your own contact applications.
+Create a menu-driven application to emulate a Contact Lists Application. You might see such apps in smartphones, you are free to go ahead and take ideas from your own contact applications.
 
 Your menu-driven program must look like:
 
-Welcome to DBC's Contact List App
+Welcome to Contact List App
 Press 1 to add a new contact
 Press 2 to view all contacts
 Press 3 to search for a contact
@@ -16,8 +16,8 @@ The 'Add a new contact menu'
 
 You have chosen to add a new contact: 
 Please enter the name of the Person
-First Name: Divyansh
-Last Name: Bhardwaj
+First Name: Manish
+Last Name: Gautam
 Contact Number: 1234567891
 Would you like to add another contact number? (y/n): y
 Contact Number: 2365987415
